@@ -1,8 +1,11 @@
 Privacy Policy for eTracker app
+
 Last Updated: 17/05/2025
+
 Introduction
 Welcome to eTracker App. This privacy policy explains how we handle information when you use our mobile application. We are committed to protecting your privacy and ensuring you understand how your data is managed.
 Data Collection and Storage
+
 eTracker does not collect, store, or transmit any personal data to external servers. All of your financial information, expense records, budget settings, and any other data you input into the app is stored exclusively on your device's local storage. We have designed our app with privacy as a priority.
 Information Stored Locally on Your Device
 The following information is stored locally on your device only:
@@ -35,4 +38,3 @@ Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
 Email: Zephyr.nexus86@gmail.com
-Website: 
