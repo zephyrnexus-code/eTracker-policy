@@ -1,11 +1,8 @@
-Privacy Policy for eTracker app
-
-Last Updated: 17/05/2025
-
+Privacy Policy for eTracker
+Last Updated: [17/05/2025]
 Introduction
-Welcome to eTracker App. This privacy policy explains how we handle information when you use our mobile application. We are committed to protecting your privacy and ensuring you understand how your data is managed.
+Welcome to eTracker. This privacy policy explains how we handle information when you use our mobile application. We are committed to protecting your privacy and ensuring you understand how your data is managed.
 Data Collection and Storage
-
 eTracker does not collect, store, or transmit any personal data to external servers. All of your financial information, expense records, budget settings, and any other data you input into the app is stored exclusively on your device's local storage. We have designed our app with privacy as a priority.
 Information Stored Locally on Your Device
 The following information is stored locally on your device only:
@@ -28,6 +25,15 @@ Data Security
 We implement appropriate technical measures to protect your locally stored data. However, please note that you are responsible for maintaining the security of your device and controlling access to it.
 Analytics and Third-Party Services
 Our app does not use any third-party analytics tools or services that collect user data. We do not incorporate advertising frameworks or tracking technology.
+In-App Purchases and RevenueCat
+We use RevenueCat for in-app purchase receipt validation. Please be aware:
+
+We do not access, collect, or store your payment information
+RevenueCat processes only the necessary transaction data required for purchase verification
+This transaction data is processed according to RevenueCat's privacy policy
+This processing is limited to validating your purchases and managing subscriptions (if applicable)
+
+For more information about how RevenueCat handles data, please refer to RevenueCat's Privacy Policy.
 Children's Privacy
 Our application is not directed to children under the age of 13, and we do not knowingly collect personal information from children under 13.
 Changes to This Privacy Policy
@@ -37,4 +43,4 @@ Since all data is stored locally on your device, you have complete control over 
 Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
-Email: Zephyr.nexus86@gmail.com
+Email: zephyr.nexus86@gmail.com
